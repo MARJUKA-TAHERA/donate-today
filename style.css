@@ -98,3 +98,63 @@ hr{
     text-align: center;
     margin-top: 40px;
 }
+.donate-plan{
+    margin-bottom: 150px;
+}
+.donate-plan-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 180px;
+    margin-right: 180px;
+    
+}
+.single-plan-area{
+    width: 280px;
+    padding: 30px 25px;
+    margin-top: 40px;
+   
+}
+.first-plan{
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+.second-plan{
+    background-color:rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+.third-plan{
+    background: #FFF4D6;
+    border-radius: 5px;
+}
+.email-container{
+    width: 809px;
+    height: 200px;
+    margin-left: 324px;
+    background-color: #FFF4D6;
+}
+.email-submit-container{
+    display: flex;
+    justify-content: center;
+    padding: 76px 188px;
+
+}
+footer{
+    background-color: #0B0D17;
+    height: 200px;
+    width: auto;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+footer h3{
+    padding-top: 50px;
+    color: #FF5959;
+    font-family: initial;
+  
+}
+footer small{
+    color: white;
+}
