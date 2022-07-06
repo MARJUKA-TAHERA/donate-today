@@ -150,13 +150,13 @@ hr{
     font-size: 30px;
 }
 .email-input{
-    background-color: #D9D9D9;
+    background-color: #f6eaea;
     border-right: #D9D9D9;
     padding: 12px 40px;
     border: 1px solid #FFF4D6;
     border-bottom-left-radius: 8px;
     border-top-left-radius: 8px;
-    color: #707070;
+    color: #dad4d4;
     font-size: 15px;
 }
 .submit-button{
@@ -169,6 +169,32 @@ hr{
     border-top-right-radius: 8px;
     margin-left: -5px;
     font-size: 15px;
+}
+.disester-news{
+    margin-bottom: 100px;
+}
+.disester{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.eatch-seen img {
+    width: 320px;
+    height: 200px;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.eatch-seen{
+    width: 320px;
+    text-align: center;
+    padding: 15px 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+
 }
 .suffering-seen{
     margin-top: 200px;
@@ -185,8 +211,10 @@ hr{
 }
 .suffer-text{
    color: #5a5555;
-   padding: 37px 50px;
+   text-align: center;
+   padding: 30px 30px;
 }
+
 footer{
     background-color: #0B0D17;
     height: 200px;
